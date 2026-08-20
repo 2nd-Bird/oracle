@@ -1,6 +1,6 @@
 # oracle 🧿 — Bring a second brain, not a second briefing
 
-> **Fork notice.** This is [2nd-Bird/oracle](https://github.com/2nd-Bird/oracle), a fork of [steipete/oracle](https://github.com/steipete/oracle) (MIT, © Peter Steinberger) that adds `oracle conversation export` — a read-only way to archive existing ChatGPT conversations into an Obsidian vault / Git knowledge repo ([section below](#archive-chatgpt-conversations-into-an-obsidian-vault--knowledge-repo)). Everything else is upstream Oracle. The feature is submitted upstream as a pull request; until it lands there, install this fork with `npm install -g github:2nd-Bird/oracle#feat/chatgpt-conversation-export`.
+> **Fork notice.** This is [2nd-Bird/oracle](https://github.com/2nd-Bird/oracle), a fork of [steipete/oracle](https://github.com/steipete/oracle) (MIT, © Peter Steinberger). It adds one thing: `oracle conversation export`, which lets a coding agent (Codex, Claude Code, …) archive your existing ChatGPT conversations into a Git repo — and, if you use one, into your Obsidian knowledge graph. Everything else is upstream Oracle. The feature is submitted upstream as [PR #402](https://github.com/steipete/oracle/pull/402); until it lands there, install this fork with `npm install -g github:2nd-Bird/oracle#feat/chatgpt-conversation-export`. → [Why this exists](#bring-your-chatgpt-history-into-your-knowledge-graph) · [日本語](README.ja.md)
 
 <p align="center">
   <img src="./README-header.png" alt="Oracle CLI header banner" width="1100">
